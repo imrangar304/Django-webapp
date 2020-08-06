@@ -59,6 +59,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 ## Acknowledgments
 Many thanks to Django girls Tutorial for their awesome course.
 
-References
+## References
 https://tutorial.djangogirls.org/en/
+
 https://www.djangoproject.com/
