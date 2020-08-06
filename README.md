@@ -56,7 +56,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 5. Create a new Pull Request
 
 
-Acknowledgments
+## Acknowledgments
 Many thanks to Django girls Tutorial for their awesome course.
 
 References
